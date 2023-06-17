@@ -1,0 +1,46 @@
+p{
+  margin: 1%;
+  padding: 1%;
+}
+
+body {
+    align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.triangle {
+  position: absolute;
+  bottom: -18%;
+  left: 25%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 2rem solid transparent;
+  border-right: 2rem solid transparent;
+  border-top: 2rem solid #198754;
+}
+
+
+.message {
+    color: yellow;
+}
+.container {
+  display: absolute;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+h3{
+color:green;
+align-items: center;
+text-align: center;
+}
